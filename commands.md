@@ -8,3 +8,5 @@ git restore     - Restore current file to version from repository
 git log         - Show all commits which was made in repository
 git revert      - Back a specify commit
 git show <HASH> - Show info about specify commit
+git push        - Publish a local change
+git pull        - Download changes from local repository
